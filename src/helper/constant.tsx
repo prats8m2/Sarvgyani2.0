@@ -1,0 +1,45 @@
+const PETITION: string[] = [
+  'S',
+  'a',
+  'r',
+  'v',
+  'a',
+  'g',
+  'y',
+  'a',
+  'n',
+  'i',
+  ' ',
+  'p',
+  'l',
+  'e',
+  'a',
+  's',
+  'e',
+  ' ',
+  't',
+  'e',
+  'l',
+  'l',
+  '',
+];
+
+const GYAN: string[] = [
+  //RANDOM STRINGS TO USE WHEN NO ANSWER IS PRESENT
+  'Its time to meditate, I will answer later.',
+  "Looks like you are trying my knowledge, I don't trust you",
+  'Life is also a question my friend, somethings dont have answer!',
+  "I don't like your attitude while asking this question",
+  "Someone in the room doesn't believe me, I am not answering",
+  'This is not a good time to answer this question',
+  'Stars are not align right now, please try later!',
+  'Devil is coming, I will answer you later',
+  "Don't try to test me, I will burn you to death",
+  'You are a good question but your question hurts me',
+  'Too many questions, I m tired now',
+  'You are asking too many question, Please give me some rest',
+  "I don't want to answer this question",
+  'I think there is glitch in the matrix',
+];
+
+export { PETITION, GYAN };
