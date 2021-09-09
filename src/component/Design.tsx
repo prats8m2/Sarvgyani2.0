@@ -146,8 +146,8 @@ const Design: React.FC<Props> = (props) => {
             </div>
           </div>
 
-          {isAnswer ? <h3>{answer}</h3> : <></>}
         </div>
+          {isAnswer ? <h3>{answer}</h3> : <></>}
         {isLoader ? loader : <></>}
       </section>
 
