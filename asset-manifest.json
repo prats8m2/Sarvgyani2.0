@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sarvgyani2.0/static/css/main.be2e9fa1.css",
+    "main.js": "/Sarvgyani2.0/static/js/main.146c4a59.js",
+    "index.html": "/Sarvgyani2.0/index.html",
+    "main.be2e9fa1.css.map": "/Sarvgyani2.0/static/css/main.be2e9fa1.css.map",
+    "main.146c4a59.js.map": "/Sarvgyani2.0/static/js/main.146c4a59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be2e9fa1.css",
+    "static/js/main.146c4a59.js"
+  ]
+}
